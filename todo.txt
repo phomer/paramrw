@@ -1,0 +1,14 @@
+				Random walk TODO
+======================================================================================
+
+- put text on the images
+- use bigger pallets, that show collisions better (darker for more collisions)
+
+- Put on github?
+- make into parameter library? Specify distributed param? How do I bound this?
+
+- teleports in 1D? (can we implement a time based teleport, so it kicks in over a period? Maybe model stocks?)
+	- the idea is that irrational events randomly push the walk in a bigger direction, until they are exhausted.
+
+- how does this relate to weiner functions?
+
