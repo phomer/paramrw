@@ -4,9 +4,10 @@ import (
 	"fmt"
 	"image"
 	"math/rand"
-	"paramrw/lib"
-	"paramrw/lib/log"
 	"time"
+
+	"github.com/phomer/paramrw/lib"
+	"github.com/phomer/paramrw/lib/log"
 )
 
 var seed = time.Now().UnixNano()
